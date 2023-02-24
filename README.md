@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Health monitoring PWA**
 
-- 🌱 I’m currently learning **MERN Stack and Cloud architechure**
+- 🌱 I’m currently learning **Android and Cloud architechure**
 
-- 👯 I’m looking to collaborate on **any MERN stack application**
+- 👯 I’m looking to collaborate on **any mobile application using android**
 
 - 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
