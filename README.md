@@ -7,13 +7,11 @@
 
 - 👯 I’m looking to collaborate on **any mobile application using android**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
-
 - 💬 Ask me about **React and Java**
 
 - 📫 How to reach me **sjvignesh333@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1L1shL3gY3dgmAuJBOIpYfTHVOWGJSIdc/view?usp=sharing)
 
 - ⚡ Fun fact **Good Googlers = Good Developers**
 
